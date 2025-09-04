@@ -1,0 +1,8 @@
+python main.py --dataset AWA1 --attribute_generation_method learnable --batch_size 128 --buffer_size 5000 --load_best_hp
+
+
+
+
+To remove conda env:
+conda env remove --name <env_name>
+conda clean --all
