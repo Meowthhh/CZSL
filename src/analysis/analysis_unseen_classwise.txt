@@ -1,0 +1,79 @@
+skunk: antelope, grizzly+bear, killer+whale, beaver, otter, persian+cat, giant+panda, horse, siamese+cat, mole, sheep, squirrel, bat
+
+mole: grizzly+bear, beaver, dalmatian, horse, bat
+
+tiger: antelope, grizzly+bear, beaver, dalmatian, persian+cat, horse, german+shepherd, siamese+cat, collie, sheep, giraffe
+
+hippopotamus: antelope, grizzly+bear, beaver, dalmatian, horse, german+shepherd, blue+whale, skunk, moose, sheep, wolf
+
+leopard: antelope, grizzly+bear, dalmatian, persian+cat, horse, giant+panda, siamese+cat, mouse, sheep, rabbit, bat
+
+moose: antelope, grizzly+bear, beaver, horse, german+shepherd, leopard, moose
+
+spider+monkey: antelope, grizzly+bear, weasel, beaver, dalmatian, persian+cat, horse, german+shepherd, blue+whale, siamese+cat, moose, fox, sheep, bat, wolf
+
+humpback+whale: blue+whale, killer+whale, giraffe
+
+elephant: antelope, grizzly+bear, killer+whale, beaver, horse, german+shepherd, blue+whale, moose, sheep
+
+gorilla: grizzly+bear, weasel, beaver, dalmatian, persian+cat, horse, german+shepherd, collie, moose, sheep, rabbit, wolf
+
+ox: antelope, grizzly+bear, dalmatian, horse
+
+fox: antelope, grizzly+bear, weasel, beaver, dalmatian, persian+cat, horse, german+shepherd, siamese+cat, lion, fox, bat, wolf
+
+sheep: antelope, grizzly+bear, weasel, beaver, dalmatian, persian+cat, horse, german+shepherd, siamese+cat, mole, moose, cow, humpback+whale, fox, sheep
+
+seal: antelope, grizzly+bear, killer+whale, weasel, dalmatian, beaver, horse, persian+cat, blue+whale, siamese+cat, otter, lion, german+shepherd, moose, sheep, seal, bat, wolf
+
+chimpanzee: antelope, grizzly+bear, beaver, dalmatian, persian+cat, horse, german+shepherd, siamese+cat, collie, cow, sheep, wolf
+
+hamster: antelope, beaver, dalmatian, persian+cat, otter, german+shepherd, siamese+cat, mouse, collie, sheep, rabbit
+
+squirrel: antelope, grizzly+bear, weasel, otter, beaver, dalmatian, persian+cat, horse, zebra, siamese+cat, german+shepherd, collie, moose, sheep, rabbit
+
+rhinoceros: antelope, grizzly+bear, weasel, killer+whale, horse, german+shepherd, moose
+
+rabbit: antelope, killer+whale, beaver, dalmatian, persian+cat, horse, german+shepherd, siamese+cat, fox, sheep
+
+bat: antelope, grizzly+bear, weasel, beaver, dalmatian, persian+cat, horse, otter, blue+whale, siamese+cat, german+shepherd, fox, sheep, giraffe
+
+giraffe: antelope, grizzly+bear, beaver, dalmatian, horse, german+shepherd, deer, siamese+cat, moose, sheep, bat, giraffe
+
+wolf: antelope, grizzly+bear, beaver, dalmatian, horse, german+shepherd, bobcat
+
+chihuahua: antelope, weasel, killer+whale, dalmatian, persian+cat, horse, german+shepherd, siamese+cat, sheep, wolf
+
+rat: antelope, beaver, otter, persian+cat, dalmatian, german+shepherd, siamese+cat, sheep
+
+weasel: antelope, grizzly+bear, beaver, otter, persian+cat, horse, blue+whale, siamese+cat, mole, collie
+
+otter: antelope, grizzly+bear, killer+whale, beaver, otter, persian+cat, weasel, blue+whale, siamese+cat, bat, wolf
+
+buffalo: antelope, grizzly+bear, beaver, horse, german+shepherd, moose, sheep
+
+zebra: antelope, beaver, horse, siamese+cat, giraffe
+
+giant+panda: antelope, grizzly+bear, killer+whale, dalmatian, persian+cat, horse, german+shepherd, bobcat, siamese+cat, lion, zebra, giant+panda, leopard, sheep, rabbit, bat, wolf
+
+deer: antelope, weasel, beaver, dalmatian, persian+cat, horse, german+shepherd, siamese+cat, moose
+
+bobcat: antelope, grizzly+bear, beaver, dalmatian, persian+cat, horse, giant+panda, bobcat, siamese+cat, german+shepherd, mouse, moose, bat
+
+pig: antelope, grizzly+bear, weasel, beaver, dalmatian, horse, german+shepherd, siamese+cat, moose, fox, bat, wolf
+
+lion: antelope, grizzly+bear, weasel, beaver, dalmatian, persian+cat, horse, german+shepherd, deer, siamese+cat, bobcat, collie, moose, cow, ox, sheep
+
+mouse: antelope, killer+whale, beaver, dalmatian, persian+cat, horse, otter, siamese+cat, rabbit
+
+polar+bear: grizzly+bear, beaver, dalmatian, persian+cat, horse, german+shepherd, bobcat, siamese+cat, blue+whale, bat, wolf
+
+collie: grizzly+bear, killer+whale, beaver, dalmatian, persian+cat, horse, german+shepherd, siamese+cat, lion, collie, cow, ox, sheep
+
+walrus: grizzly+bear, killer+whale, beaver, horse, blue+whale, moose
+
+raccoon: antelope, grizzly+bear, chihuahua, beaver, dalmatian, persian+cat, otter, german+shepherd, bobcat, siamese+cat, squirrel, bat, wolf
+
+cow: antelope, grizzly+bear, killer+whale, beaver, dalmatian, horse, german+shepherd, moose, cow, sheep
+
+dolphin: antelope, killer+whale, beaver, horse, german+shepherd, blue+whale, moose, humpback+whale, dolphin, bat, giraffe
